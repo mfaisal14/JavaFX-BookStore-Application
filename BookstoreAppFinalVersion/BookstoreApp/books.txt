@@ -1,0 +1,7 @@
+Book 2	100.0
+Book 3	200.0
+Book 4	500.0
+Book 5	123.25
+Book 6	245.25
+book 7	245.55
+book 8	300.0
