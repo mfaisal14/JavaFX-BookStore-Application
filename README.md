@@ -1,1 +1,2 @@
 # JavaFX-BookStore-Application
+A GUI Applicaiton that uses the JavaFX framework that emulates an online bookstore portal. Applicatino is capable of gvinig access to seperate accounts. These accounts consist of a general user account and an admin account. Users are allowed to select and purchase books from the store''s catalogue while owners are allowed to add or delete books to or from their catalogue and delete or add user accounts off of or to their application's servers. 
